@@ -1,11 +1,11 @@
-# 📘 Apostila de Python Básico
+# 📘 Banco de Dados Não Relacional
 
-Bem-vindo à apostila digital de Python. Este material foi feito para iniciantes.
+Bem-vindo ao conteúdo de Banco de Dados Não Relacional. Este material foi feito para iniciantes.
 
 ## 📌 Sumário
-* [Capítulo 1: Introdução à Linguagem](capitulo1.md)
-* [Capítulo 2: Variáveis e Operadores](capitulo2.md)
-* [Capítulo 3: Estruturas Condicionais](embedded-reference-nosql.md)
+* [Capítulo 1: Modelagem Nâo Relacional](1_embedded-reference-nosql.md)
+* [Capítulo 2: ...]
+* [Capítulo 3: ...]
 
 ## 👤 Autor
-* Desenvolvido por [Seu Nome](https://github.com)
+* Desenvolvido por [Higor A. Delsoto](https://github.com/HigorAD/BDNR)
