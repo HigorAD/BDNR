@@ -638,7 +638,7 @@ const buscarRestaurante = async (id) => {
 
 **Pergunta:** Usar EMBEDDED ou REFERENCE? Por quê?
 
-**Resposta esperada:** REFERENCE
+
 - Comentários podem ser muitos (quebra 16 MB)
 - Atualizar comentário não deve afetar post
 - Buscar todos comentários de um usuário é caso de uso
@@ -655,11 +655,7 @@ const buscarRestaurante = async (id) => {
 - Pedido ↔ Itens (produtos)
 - Pedido ↔ Avaliações
 
-**Resposta esperada:**
-- Usuário ↔ Carrinho: **EMBEDDED** (1 carrinho ativo/usuário, pequeno)
-- Usuário ↔ Endereço: **EMBEDDED** (1-5 endereços)
-- Pedido ↔ Itens: **EMBEDDED** (snapshot, imutável)
-- Pedido ↔ Avaliações: **REFERENCE** (muitas, dinâmicas)
+
 
 ---
 
