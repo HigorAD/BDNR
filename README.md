@@ -1,4 +1,4 @@
-﻿# Banco de Dados Não Relacional
+# Banco de Dados Não Relacional
 
 Este repositório reúne materiais de apoio, exemplos práticos e exercícios utilizados na disciplina de Banco de Dados Não Relacional.
 
@@ -21,3 +21,11 @@ Os arquivos estão organizados por aulas e podem incluir textos explicativos, ex
 Recomenda-se acompanhar os arquivos na ordem indicada pelos nomes das pastas e dos materiais. Os exemplos podem ser executados, adaptados e expandidos durante as aulas ou em atividades individuais.
 
 Sempre que possível, leia primeiro o material teórico, depois analise os exemplos e, por fim, resolva os exercícios propostos. Essa sequência ajuda a consolidar os conceitos antes da aplicação prática.
+
+## Aula 4 — Replicação, disponibilidade e sharding
+
+- [4.1 Replicação e disponibilidade: conceitos](4_bdo_doc_replicacao_e_disponibilidade/4.1_replicacao-e-disponibilidade-teoria.md)
+- [4.2 Sharding e distribuição em MongoDB](4_bdo_doc_replicacao_e_disponibilidade/4.2_sharding-e-distribuicao-mongodb.md)
+- [4.3 Atividade: decisões de replicação e sharding](4_bdo_doc_replicacao_e_disponibilidade/4.3_atividade-replicacao-e-sharding.md)
+
+O material apresenta os conceitos por meio de exemplos, diagramas e análise de cenários. A atividade não exige instalação, configuração de servidores ou execução de comandos.
